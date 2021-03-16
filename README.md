@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2019pee0029
+- 👋 Hi, I’m @BhatAijaz
 - 👀 I’m interested in deep learning networks
 - 🌱 I’m currently learning attention based DNN
 - 💞️ I’m looking to collaborate on DNN for user application
