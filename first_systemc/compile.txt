@@ -1,0 +1,1 @@
+g++ -std=c++17 -o first_systemc main.cpp -I$SYSTEMC_HOME/include -L$SYSTEMC_HOME/lib -lsystemc -lm
