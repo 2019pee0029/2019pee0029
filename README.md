@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BhatAijaz
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning attention based DNN
-- 💞️ I’m looking to collaborate on DNN for user application
+- 👀 I’m interested in ...
 - 📫 Electrical Engineering, Indian Institue of Technology Jammu
 
 <!---
