@@ -1,1 +1,3 @@
+export SYSTEMC_HOME=/workspaces/2019pee0029/systemc/install
+export LD_LIBRARY_PATH=$SYSTEMC_HOME/lib:$LD_LIBRARY_PATH
 g++ -std=c++17 -o first_systemc main.cpp -I$SYSTEMC_HOME/include -L$SYSTEMC_HOME/lib -lsystemc -lm
